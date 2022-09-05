@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-/*
+/* Compounded
 #wall .tag-1, 
 div#wall #tag-2, 
 div#wall div#tag-3.wicked, 
@@ -30,6 +30,6 @@ div#wall .parent div#tag-5.slick{
     display: none;
 }
 
-.parent > *{
+.parent > *{ /* FOR TAG-6, TAG-7*/
     display: none;
 }
